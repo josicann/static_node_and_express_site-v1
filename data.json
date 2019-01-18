@@ -1,0 +1,14 @@
+{
+    "projects" : [
+        {
+            "id": 0,
+            "project_name": "random_quote_generator",
+            "description": "A simple app to generate random quotes",
+            "technologies": "javascript, css, html",
+            "live_link": null,
+            "github_link": null,
+            "image_urls": null
+        }
+    ]
+}
+
