@@ -2,12 +2,12 @@
     "projects" : [
         {
             "id": 0,
-            "project_name": "random_quote_generator",
-            "description": "A simple app to generate random quotes",
+            "project_name": "Phrase Hunter",
+            "description": "a hangman like game",
             "technologies": "javascript, css, html",
-            "live_link": null,
-            "github_link": null,
-            "image_urls": null
+            "live_link": "https://josicann.github.io/oop_game_v1/",
+            "github_link": "https://github.com/josicann/oop_game_v1",
+            "image_urls": ["/images/phrase-hunter-game.PNG", "/images/phrase-hunter-start.PNG"]
         }
     ]
 }
